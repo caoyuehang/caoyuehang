@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caoyuehang
 - 👀 I’m interested in transportation
-- 🌱 I’m currently learning deep learning&large data processing
+- 🌱 I’m currently learning deep learning & large data processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
