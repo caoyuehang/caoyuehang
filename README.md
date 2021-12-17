@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @caoyuehang
 - 👀 I’m interested in transportation
-- 🌱 I’m currently learning deep learning & big data processing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning nlp
+
 
 <!---
 caoyuehang/caoyuehang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
