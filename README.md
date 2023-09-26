@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caoyuehang
-- 👀 I’m interested in transportation
-- 🌱 I’m currently learning nlp
+- 👀 I’m interested in GNN, Anomaly Detection
+- 🌱 I’m currently learning pretrained GNN
 
 
 <!---
